@@ -7,4 +7,4 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/SamuelFXavier/Avaliacao1-microservices
+          uri: https://github.com/SamuelFXavier/Avaliacao1-microservices-configServer
